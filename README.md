@@ -1,6 +1,6 @@
 
 ## Overview:
-# 🌲 Forest Conservation Project 🌳
+# 🌲 Environment Protection Management System  🌳
 
 **An interactive platform focused on forest conservation, featuring data collection, report generation, and user engagement tools.** This project uses a **React** frontend, **Java Spring Boot** backend, and **MongoDB** database, connected through secure RESTful APIs. Users can submit and access forest data, generate reports, and manage accounts securely.
 
